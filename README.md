@@ -20,6 +20,15 @@ Este proyecto implementa una arquitectura de integración backend que automatiza
 ---
 
 ## 🏗 Arquitectura
+```mermaid
+flowchart LR
+    A[Pedido JSON] --> B[Backend Java]
+    B --> C[MariaDB]
+    B --> D[Webhook n8n]
+    D --> E[Generación HTML]
+    E --> F[Gotenberg]
+    F --> G[PDF Albarán]
+```
 
 El sistema está diseñado con separación clara de responsabilidades:
 
