@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+**/.idea/
+*.iml
+
+# Maven
+target/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+*.local
+
+# PDFs generados
+*.pdf
