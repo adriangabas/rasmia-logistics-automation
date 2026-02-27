@@ -145,20 +145,21 @@ Enviar un pedido JSON de ejemplo al endpoint del webhook.
 - Despliegue en entorno cloud.
 
 ---
+
 ## 📸 Evidencias del sistema
 
 ### Workflow de automatización (n8n)
-![Workflow](docs/images/workflow-overview.png)
+![Workflow](docs/images/workflow.png)
 
 ---
 
 ### Persistencia en MariaDB — Tabla pedidos
-![Pedidos](docs/images/mariadb-pedidos.png)
+![Pedidos](docs/images/mariadb_pedidos.png)
 
 ---
 
 ### PDF generado automáticamente
-![PDF](docs/images/pdf-albaran.png)
+![PDF](docs/images/albaran.png)
 
 ## 📎 Estado del Proyecto
 
