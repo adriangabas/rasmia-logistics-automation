@@ -1,4 +1,9 @@
 # Rasmia Logistics Automation
+> Backend-driven logistics integration solution focused on process automation and system integration.
+![Java](https://img.shields.io/badge/Java-Backend-red)
+![MariaDB](https://img.shields.io/badge/MariaDB-Database-blue)
+![n8n](https://img.shields.io/badge/n8n-Workflow-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 
 Solución de integración logística que automatiza la recepción de pedidos y la generación de albaranes PDF mediante backend Java, MariaDB, n8n y Docker.
 
